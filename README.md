@@ -4,9 +4,7 @@ Hi 👋 My name is Elena Khuzhina
 Front-End Developer
 -------------------
 
-I am able to layout sites, actively learn and work with JavaScript, Node.js. 
-Ready to participate in various interesting projects. 
-Write to me! Always glad for productive communication! 
+I am able to layout sites, actively learn and work with JavaScript, Node.js. Always glad for productive communication! 
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [emkhuzhina@gmail.com](mailto:emkhuzhina@gmail.com)
