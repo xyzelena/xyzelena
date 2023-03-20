@@ -4,11 +4,13 @@ Hi 👋 My name is Elena Khuzhina
 Front-End Developer
 -------------------
 
-I'm a junior front-end developer. I know how to make a website, I already know Javascript and Node.js pretty well.
+I am able to layout sites, actively learn and work with JavaScript, Node.js. 
+Ready to participate in various interesting projects. 
+Write to me! Always glad for productive communication! 
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [emkhuzhina@gmail.com](mailto:emkhuzhina@gmail.com)
-* 🧠  I'm learning Javascript, Node.js, React
+* 🧠  I'm learning JavaScript , Node.js, React
 * 🤝  I'm open to collaborating on various interesting projects
 
 ### Skills
