@@ -6,7 +6,7 @@ Front-End Developer
 
 I am able to layout sites, actively learn and work with JavaScript, Node.js. Always glad for productive communication! 
 
-* 🌍  I'm based in India
+* 🌍  I'm based in Russia (Moscow)
 * ✉️  You can contact me at [emkhuzhina@gmail.com](mailto:emkhuzhina@gmail.com)
 * 🧠  I'm learning JavaScript , Node.js, React
 * 🤝  I'm open to collaborating on various interesting projects
