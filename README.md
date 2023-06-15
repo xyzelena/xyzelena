@@ -1,21 +1,17 @@
 Hi all👋 I'm Lena
 ===============================
 
-Front-End Developer
+A junior frontend developer from Russia
 -------------------
 
 I am able to layout sites, actively learn and work with JavaScript, Node.js. Always glad for productive communication! 
 
-* 🌍  I'm based in Russia (Moscow)
-* ✉️  You can contact me at [emkhuzhina@gmail.com](mailto:emkhuzhina@gmail.com)
 * 🧠  I'm learning JavaScript , Node.js, React
 * 🤝  I'm open to collaborating on various interesting projects
-
-I am currently looking for carrer opportunities as Junior Frontend developer.
-My CV: https://cv.hexlet.io/ru/resumes/2481
+* 📄 I am currently looking for carrer opportunities as Junior Frontend developer. My CV: https://cv.hexlet.io/ru/resumes/2481
+* ✉️  You can contact me at [emkhuzhina@gmail.com](mailto:emkhuzhina@gmail.com)
 
 ### Skills
-
 
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
