@@ -14,10 +14,12 @@ About me:
 
 Contacts:
 
-Email: [emkhuzhina@gmail.com](mailto:emkhuzhina@gmail.com)
-Telegram: @xyzelena
-Whatsapp: +79015803228
-LinkedIn: in/kaziamov
+* Email: emkhuzhina@gmail.com
+* Telegram: [@xyzelena](https://t.me/xyzelena)
+* Whatsapp: https://wa.me/79015803228
+* LinkedIn: [in/xyzelena](https://www.linkedin.com/in/xyzelena)
+
+-------------------
 
 ### Skills
 
@@ -35,8 +37,3 @@ LinkedIn: in/kaziamov
 <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
-
-
-### Socials
-
-<p align="left"> <a href="https://www.facebook.com/xyzelena" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/xyzelena" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/xyzelena" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/e_khuzhina" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
