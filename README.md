@@ -1,4 +1,4 @@
-Hi 👋 My name is Elena Khuzhina
+Hi all👋 I'm Lena)
 ===============================
 
 Front-End Developer
