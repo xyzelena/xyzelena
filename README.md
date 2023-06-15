@@ -11,6 +11,9 @@ I am able to layout sites, actively learn and work with JavaScript, Node.js. Alw
 * 🧠  I'm learning JavaScript , Node.js, React
 * 🤝  I'm open to collaborating on various interesting projects
 
+I am currently looking for carrer opportunities as Junior Frontend developer.
+My CV: https://cv.hexlet.io/ru/resumes/2481
+
 ### Skills
 
 
