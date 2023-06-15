@@ -1,4 +1,4 @@
-Hi all👋 I'm Lena)
+Hi all👋 I'm Lena
 ===============================
 
 Front-End Developer
