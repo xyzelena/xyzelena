@@ -1,7 +1,7 @@
 Hi all! I'm Lena
 ===============================
 
-A junior frontend developer from Russia
+A junior frontend developer
 -------------------
 
 About me:
