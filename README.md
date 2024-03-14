@@ -1,27 +1,10 @@
-Hi all! I'm Lena
+Hi all! I'm Elena
 ===============================
 
-A junior frontend developer
+Frontend & React Developer
 -------------------
 
-About me:
-
-* I am able to layout sites, actively learn and work with JavaScript, Node.js
-* I'm open to collaborating on various interesting projects
-* I'm currently looking for carrer opportunities as Junior Frontend developer. My CV: https://cv.hexlet.io/ru/resumes/2481
-
--------------------
-
-Contacts:
-
-* Email: emkhuzhina@gmail.com
-* Telegram: [@xyzelena](https://t.me/xyzelena)
-* Whatsapp: https://wa.me/79015803228
-* LinkedIn: [in/xyzelena](https://www.linkedin.com/in/xyzelena)
-
--------------------
-
-### Skills
+### Skills:
 
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
@@ -37,3 +20,24 @@ Contacts:
 <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
+
+### Just a little bit about me:
+
+* Junior frontend developer in love with a new profession;
+* I can layout websites, but more like to code in JavaScript, Node.js, React etc; 
+* Currently living in south India and can only work remotely with flexible working hours; 
+* Looking for carrer opportunities as Junior Frontend developer or participating in various interesting projects as a freelancer.
+
+### My CV: https://cv.hexlet.io/ru/resumes/2481
+
+-------------------
+
+Contacts:
+
+* Email: emkhuzhina@gmail.com
+* Telegram: [@xyzelena](https://t.me/xyzelena)
+* Whatsapp: https://wa.me/79015803228
+
+-------------------
+
+
