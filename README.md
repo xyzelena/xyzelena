@@ -24,7 +24,7 @@ Frontend & React Developer
 ### Just a little bit about me:
 
 * Junior frontend developer in love with a new profession;
-* I can layout websites, but more like to code in JavaScript, Node.js, React etc; 
+* Hard Skills: HTML5, CSS3, JavaScript, React, Redux Toolkit, Jest, Jquery, Bootstrap , Webpack, Git;
 * Currently living in south India and can only work remotely with flexible working hours; 
 * Looking for carrer opportunities as Junior Frontend developer or participating in various interesting projects as a freelancer.
 
