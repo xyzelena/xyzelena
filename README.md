@@ -1,7 +1,7 @@
 Hi all! I'm Elena
 ===============================
 
-Frontend & React Developer
+Frontend developer
 -------------------
 
 ### Skills:
@@ -23,11 +23,11 @@ Frontend & React Developer
 
 ### Just a little bit about me:
 
-* Hard Skills: HTML5, CSS3, JavaScript, React, Redux Toolkit, Jest, Jquery, Bootstrap , Webpack, Git;
-* Currently living in south India and can only work remotely with flexible working hours; 
-* Looking for carrer opportunities as Junior Frontend developer or participating in various interesting projects as a freelancer.
+* Hard Skills: HTML5, CSS3, JavaScript, React, Next.js, Redux Toolkit, Jest, Jquery, Bootstrap, Webpack, Git;
+* Creation of cross-browser adaptive layout;
+* Looking for carrer opportunities as Frontend developer or participating in various interesting projects as a freelancer.
 
-### My CV: https://cv.hexlet.io/ru/resumes/2481
+### [My CV](https://docs.google.com/document/d/17WCN3APWxzjlXuUDGzBKkgkxBJpumLrcAYNa6RmU3p8/edit?usp=sharing)
 
 -------------------
 
