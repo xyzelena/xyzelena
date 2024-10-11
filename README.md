@@ -27,7 +27,9 @@ Frontend developer
 * Creation of cross-browser adaptive layout;
 * Looking for carrer opportunities as Frontend developer or participating in various interesting projects as a freelancer.
 
-### [My CV](https://docs.google.com/document/d/17WCN3APWxzjlXuUDGzBKkgkxBJpumLrcAYNa6RmU3p8/edit?usp=sharing)
+### [My CV ru](https://docs.google.com/document/d/17WCN3APWxzjlXuUDGzBKkgkxBJpumLrcAYNa6RmU3p8/edit?usp=sharing)
+
+### [LeetCode](https://leetcode.com/u/xyzelena/)
 
 -------------------
 
