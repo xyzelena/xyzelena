@@ -23,7 +23,7 @@ Frontend developer
 
 ### Just a little bit about me:
 
-* Hard Skills: HTML5, CSS3, JavaScript, React, Next.js, Redux Toolkit, Jest, Jquery, Bootstrap, Webpack, Git;
+* Hard Skills: HTML5, CSS3, Tailwind CSS, JavaScript, React, Next.js, Redux Toolkit, Jest, Jquery, Bootstrap, Webpack, Git;
 * Creation of cross-browser adaptive layout;
 * Looking for carrer opportunities as Frontend developer or participating in various interesting projects as a freelancer.
 
