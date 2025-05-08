@@ -29,8 +29,6 @@ Frontend developer
 
 ### [My CV ru](https://drive.google.com/file/d/1GCTj0Jczc_5Flm_k-S1pTUx_-tjkvAR5/view?usp=drive_link)
 
-### [LeetCode](https://leetcode.com/u/xyzelena/)
-
 -------------------
 
 Contacts:
