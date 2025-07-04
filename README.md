@@ -23,20 +23,18 @@ Frontend developer
 
 ### Just a little bit about me:
 
-* Hard Skills: HTML5, CSS3, SASS, Tailwind CSS, JavaScript, TypeScript, React, Next.js, Node.js, Redux Toolkit, Jest, Git;
-* Creation of cross-browser adaptive layout;
-* Looking for carrer opportunities as Frontend developer or participating in various interesting projects as a freelancer.
+* Hard Skills: HTML5, CSS3, SASS, Tailwind CSS, Mantine UI, shadcn/ui, JavaScript, TypeScript, React, Next.js, Redux Toolkit, Zustand, TanStack Query;
+* Experience with building cross-browser, responsive layouts;
+* Actively seeking career opportunities as a Frontend Developer or engaging in freelance projects with challenging and meaningful tasks.
 
-### [My CV ru](https://drive.google.com/file/d/1GCTj0Jczc_5Flm_k-S1pTUx_-tjkvAR5/view?usp=drive_link)
+### [My CV ru](https://drive.google.com/file/d/195ZtICsFxEPcKvoeDtE4NDM31HjSKAQq/view?usp=sharing)
 
 -------------------
 
-Contacts:
+### Contacts:
 
 * Email: emkhuzhina@gmail.com
 * Telegram: [@xyzelena](https://t.me/xyzelena)
 * Whatsapp: https://wa.me/79015803228
 
 -------------------
-
-
