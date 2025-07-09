@@ -27,7 +27,7 @@ Frontend developer
 * Experience with building cross-browser, responsive layouts;
 * Actively seeking career opportunities as a Frontend Developer or engaging in freelance projects with challenging and meaningful tasks.
 
-### [My CV ru](https://drive.google.com/file/d/195ZtICsFxEPcKvoeDtE4NDM31HjSKAQq/view?usp=sharing)
+### My [CV ru](https://drive.google.com/file/d/1NrjsBC5dzckGt4vSH7y_ScNnPL7yatdu/view?usp=sharing) | [CV en](https://drive.google.com/file/d/1NJIvLq_nCJ_kVqvIF6Z51bM5JEeFgd2g/view?usp=sharing)
 
 -------------------
 
