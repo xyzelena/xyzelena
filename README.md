@@ -4,7 +4,7 @@
 
 ### 💻 Hard Skills:
 
-* Frontend: HTML5, CSS3, SASS, Tailwind CSS, Mantine UI, shadcn/ui
+* Frontend: HTML5, CSS3, SCSS, Tailwind CSS, Mantine UI, shadcn/ui
 * Programming: JavaScript, TypeScript, React, Next.js
 * State Management & Data: Redux Toolkit, Zustand, TanStack Query
 * Other: Responsive, cross-browser layout development
