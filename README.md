@@ -1,6 +1,6 @@
 ## Hi, I’m Elena 👋
 
-## Frontend & Go Developer
+## Frontend Developer
 
 ### 💻 Hard Skills:
 
