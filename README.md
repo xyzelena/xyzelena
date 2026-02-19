@@ -1,6 +1,6 @@
 ## Hi, I’m Elena 👋
 
-## Frontend Developer
+## Frontend developer
 
 ### 💻 Hard Skills:
 
