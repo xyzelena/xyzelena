@@ -15,4 +15,3 @@
 
 - Email: emkhuzhina@gmail.com
 - Telegram: @xyzelena
-- WhatsApp: wa.me/79015803228
